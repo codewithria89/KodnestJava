@@ -14,27 +14,14 @@ public class sTringROtation {
                 System.out.println("The string \"" + str2 + "\" is not a rotation of \"" + str1 + "\"");
             }
             else
-
             {
-
                 String combinedStr = str1 + str1;
-
                 if (combinedStr.contains(str2)) {
-
-
-
                     System.out.println("The string \"" + str2 + "\" is a rotation of \"" + str1 + "\"");
-
                 } else {
-
                     System.out.println("The string \"" + str2 + "\" is not a rotation of \"" + str1 + "\"");
-
                 }
-
             }
-
             scanner.close();
-
         }
-
     }
