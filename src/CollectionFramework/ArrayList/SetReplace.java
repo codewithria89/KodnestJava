@@ -1,4 +1,4 @@
-package CollectionFramework;
+package CollectionFramework.ArrayList;
 import java.util.*;
 public class SetReplace {
     public static void main(String[] args) {
